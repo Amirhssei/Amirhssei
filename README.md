@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP/ API / Gradio for setting up chatbots**
 
-- 👯 I’m looking to collaborate on **NLP Experts**
+- 👯 I’m looking to collaborate on **AI Experts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amirhssei](https://github.com/Amirhssei)
 
